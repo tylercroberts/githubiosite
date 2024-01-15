@@ -3,7 +3,7 @@
 title: Tyler Roberts
 
 # Name pronunciation (optional)
-name_pronunciation: Tyler Roberts
+name_pronunciation:
 
 # Full name (for SEO)
 first_name: Tyler
@@ -40,6 +40,9 @@ profiles:
   - icon: rss
     url: ./post/index.xml
     label: Subscribe to my blog via RSS feed
+  - icon: brands/slack
+    url: https://widsvancouver.slack.com/join/shared_invite/zt-ogg6zyo4-uJ6qTeiYuAMCOk68nKwkVQ#/shared-invite/email
+    label: Join DataCan Slack!
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
