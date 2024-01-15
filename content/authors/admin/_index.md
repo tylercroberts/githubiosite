@@ -11,7 +11,7 @@ last_name: Roberts
 
 # Status emoji
 status: 
-  icon: Probably Brewing Coffee ☕️
+  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -21,8 +21,10 @@ role: Senior Data Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Meta Inc.
+    url: https://www.meta.com/ca/
+  - name: DataCan
+    url: https://datacan.network/
 
 # Short bio (displayed in user profile at end of posts)
 bio: Senior Data Engineer making use of data for social good.
