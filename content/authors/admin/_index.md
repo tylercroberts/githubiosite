@@ -10,8 +10,8 @@ first_name: Tyler
 last_name: Roberts
 
 # Status emoji
-status: Probably Brewing Coffee
-  icon: ☕️
+status: 
+  icon: Probably Brewing Coffee ☕️
 
 # Is this the primary user of the site?
 superuser: true
